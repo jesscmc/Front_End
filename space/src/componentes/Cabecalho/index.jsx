@@ -1,6 +1,6 @@
 import logo from './logo.png'
 import search from './search.png'
-import styles from './Cabecalho.module.css'
+import styles from './Cabecalho.module.scss'
 
 export default function Cabecalho(){
     return(

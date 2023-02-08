@@ -1,0 +1,21 @@
+@import "../../styles/variaveis";
+
+
+footer {
+    display: flex;
+    padding: 20px;
+    background-color: $azul-rodape;
+    color: #fff;
+    font-family: "GandhiSansBold";
+  }
+  
+  footer img {
+    height: 20px;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  footer p {
+    margin: 0;
+    margin-left: auto;
+  }
